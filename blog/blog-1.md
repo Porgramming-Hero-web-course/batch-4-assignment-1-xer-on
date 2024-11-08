@@ -36,6 +36,4 @@ console.log(sumArray(numbers)); // Output: 15
 - Using reduce is more efficient than a traditional loop
 - The solution handles empty arrays gracefully
 
-```
 
-```
